@@ -1,0 +1,14 @@
+jupyterlab>=4,<5
+ipykernel>=6,<8
+pandas>=2.2,<3
+pyarrow>=18,<24
+scikit-learn>=1.5,<2
+transformers>=4.46,<5
+torch>=2.6,<3
+ipywidgets>=8,<9
+numpy>=1.26,<3
+matplotlib>=3.9,<4
+seaborn>=0.13,<0.14
+joblib>=1.4,<2
+gradio>=5.49,<6
+huggingface-hub>=0.34,<1
