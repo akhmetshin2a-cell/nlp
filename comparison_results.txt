@@ -1,0 +1,14 @@
+=== Сравнение моделей ===
+
+Данные: data/processed/train.csv, split 80/20, random_state=42
+Оценка на 1000 примерах validation Дня 5
+
+Fine-tuned Model:
+  F1 (macro): 0.9075
+  Accuracy: 0.9090
+
+Baseline Model:
+  F1 (macro): 0.8546
+  Accuracy: 0.8570
+
+Улучшение F1: 6.19%

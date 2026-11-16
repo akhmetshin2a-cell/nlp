@@ -1,0 +1,13 @@
+Baseline: DistilBERT CLS + Logistic Regression
+Dataset: data/processed/train.csv; split 80/20; random_state=42
+Train: 4000; test: 1000
+Macro F1: 0.854580
+
+              precision    recall  f1-score   support
+
+           0       0.85      0.82      0.84       443
+           1       0.86      0.89      0.87       557
+
+    accuracy                           0.86      1000
+   macro avg       0.86      0.85      0.85      1000
+weighted avg       0.86      0.86      0.86      1000
