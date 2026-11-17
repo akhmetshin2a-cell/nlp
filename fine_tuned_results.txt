@@ -1,2 +1,0 @@
-Final Validation F1: 0.9075
-Final Validation Accuracy: 0.9090
